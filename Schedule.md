@@ -1,3 +1,3 @@
 layout: page
 title: "Schedule"
-permalink: /Schedule
+permalink: glitchout1.github.io/Schedule
