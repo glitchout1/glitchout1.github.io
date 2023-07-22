@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<img src="HIDE.png" id="my_image">
+
+<script>
+    //Hiding the image using regular JavaScript.
+    function OFF(){document.getElementById('my_image').style.display = 'none';}
+    function ON( ){document.getElementById('my_image').style.display = 'inline';}
+
+</script>
+
+
+
+<h1>The button Element</h1>
+
+<button type="button" onclick="OFF()">Click Me!</button>
+<button type="button" onclick="ON()">Click Me!</button>
+ 
+</body>
+</html>
